@@ -1,2 +1,3 @@
-# eme6357-module3
-  Slide deck for EME6357, Module 3
+# EME6357 Module 3
+
+Slide deck for EME6357, Module 3: Evaluation Methodology
